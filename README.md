@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @habbazi Yassine
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning frontend 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning frontend web developement
 - 📫 How to reach me yassinehabbazi@hotmail.com
 
-<!---
-habbazi/habbazi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Languages :
+
+![html_css_js](https://user-images.githubusercontent.com/86797959/170894340-3dadd71e-5b21-4f2e-9f8a-f642ecca930d.png)
