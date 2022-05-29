@@ -5,4 +5,5 @@
 
 Languages :
 
-![html_css_js](https://user-images.githubusercontent.com/86797959/170894340-3dadd71e-5b21-4f2e-9f8a-f642ecca930d.png)
+
+![1_uPhcd64Bo0Ori-etGi1RfQ](https://user-images.githubusercontent.com/86797959/170894492-9a4a4d39-c941-44c1-803e-7642cc588664.png)
